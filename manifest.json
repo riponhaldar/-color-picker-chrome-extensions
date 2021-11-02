@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "volu",
+  "description": "for dev",
+  "version": "1.0.0",
+  "icons": { "99": "logo.png" },
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
